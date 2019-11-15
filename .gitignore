@@ -1,1 +1,4 @@
-/input.c
+/CMakeLists.txt
+/.gitignore
+/cmake-build-debug
+/test.bmp
